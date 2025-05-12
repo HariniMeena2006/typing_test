@@ -95,5 +95,7 @@ The design follows **minimal, clean, and responsive** principles:
 | Deployment | GitHub Pages / Vercel |
 
 ---
+![image](https://github.com/user-attachments/assets/43ffba4a-11d3-4d8a-9a11-d01320e41e0f)
+
 
 
