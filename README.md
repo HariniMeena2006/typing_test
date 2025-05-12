@@ -1,7 +1,9 @@
 # typing_test
 # ⌨️ Typing Speed Test Web App
+![image](https://github.com/user-attachments/assets/43ffba4a-11d3-4d8a-9a11-d01320e41e0f)
 
 A **level-based typing speed test** web application designed to improve your typing skills. Built entirely with **frontend technologies** (HTML, CSS, JavaScript or React), this app dynamically tracks your speed and accuracy while progressively increasing difficulty through levels.
+![image](https://github.com/user-attachments/assets/24a1228d-021c-44fa-a1b4-d01490518e90)
 
 ---
 
@@ -84,8 +86,6 @@ The design follows **minimal, clean, and responsive** principles:
   - Retry option appears if not
 
 ---
-![image](https://github.com/user-attachments/assets/43ffba4a-11d3-4d8a-9a11-d01320e41e0f)
-
 ## 🛠️ Technologies Used
 
 | Area        | Technology           |
@@ -96,7 +96,7 @@ The design follows **minimal, clean, and responsive** principles:
 | Deployment | GitHub Pages / Vercel |
 
 ---
-![image](https://github.com/user-attachments/assets/24a1228d-021c-44fa-a1b4-d01490518e90)
+
 
 
 
