@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>⚡ Typing Speed Test</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>⚡ Typing Speed Test</h1>
+
+    <div class="level-box" id="levelBox">Level 1: 50 words</div>
+
+    <!-- Paragraph box for Level 1, 2, and 3 -->
+    <div id="textDisplay" class="text-box">Start typing the text below:</div>
+
+    <textarea id="inputField" placeholder="Start typing here..." disabled></textarea>
+
+    <div class="info">
+      <div><strong>⏱ Time:</strong> <span id="timer">60</span>s</div>
+      <div><strong>💨 WPM:</strong> <span id="wpm">0</span></div>
+      <div><strong>🎯 Accuracy:</strong> <span id="accuracy">0</span>%</div>
+    </div>
+
+    <div class="buttons">
+      <button id="startBtn">Start</button>
+      <button id="stopBtn" disabled>Stop</button>
+      <button id="restartBtn" style="display: none;">Restart</button>
+      <!-- Add Back to Level 1 button -->
+      <button id="backToLevel1Btn" style="display: none;">Back</button>
+    </div>
+
+    <div id="messagePopup" class="message-popup"></div>
+  </div>
+
+  <!-- The positive comment will appear dynamically here -->
+  
+  <script src="script.js"></script>
+
+</body>
+</html>
