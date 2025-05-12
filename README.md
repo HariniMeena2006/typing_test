@@ -90,9 +90,9 @@ The design follows **minimal, clean, and responsive** principles:
 | Area        | Technology           |
 |-------------|----------------------|
 | Structure   | HTML                 |
-| Styling     | CSS3                 |
+| Styling     | CSS                  |
 | Interactivity | JavaScript         |
-| Deployment | GitHub Pages / Netlify / Vercel |
+| Deployment | GitHub Pages / Vercel |
 
 ---
 
